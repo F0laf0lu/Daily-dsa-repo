@@ -38,3 +38,24 @@
 
 <p>&nbsp;</p>
 <p><strong>Note:</strong> This question is the same as <a href="https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/" target="_blank"> 2287: Rearrange Characters to Make Target String.</a></p>
+
+
+<h2>Key Insight</h2>
+<p>You need to get the char that limits the forming of instances of 'balloon' after counter the frequencies of the required letters in the text
+
+For example:
+After count the frequencies of the required char to formed the word balloon from the give text you get 
+{'b':7, 'a':7, 'l':7, 'o':7, 'n':7}
+
+The min required number of characters to form ballon is 
+b - 1, a - 1, l - 2, o- 2, n-1
+
+Then, from your frequency count you check if the letters are enough to form the word
+l : 7
+but we need at least 2 L characters to form a ballon
+so 7 // 2 = 3 (integer division)
+so l is the limiting factor here. Means we can only form 3 ballons from this text
+
+
+
+</p>
