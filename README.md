@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0144-binary-tree-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
