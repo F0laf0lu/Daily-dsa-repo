@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
