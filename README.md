@@ -33,4 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0707-design-linked-list](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
