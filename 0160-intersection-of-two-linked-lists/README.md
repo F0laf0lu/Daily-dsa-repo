@@ -65,3 +65,6 @@ Explanation: The two lists do not intersect, so return null.
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you write a solution that runs in <code>O(m + n)</code> time and use only <code>O(1)</code> memory?
+
+<h2>Key Insight</h2>
+<p>Since the two linkedlists can have differnt lengths, trying to traverse them in parallel will not make pointers meet at the intersection node. The trick is to make both pointers travel the same distance across the two list by setting the pointer to the head of the other linkedlist when it hass gotten to the end.</p>
