@@ -49,3 +49,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+<h2>Key Insight</h2>
+<p> Make use of two pointer approach. One pointer tracks where the next unique element goes in the array, whaile the other scans the array for duplicated elements</p>
