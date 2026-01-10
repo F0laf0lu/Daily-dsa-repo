@@ -43,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
