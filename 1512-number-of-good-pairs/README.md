@@ -33,3 +33,7 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+<h2>Key Insight</h2>
+
+<p>Idea is to return total count of all occuring numbers in the aray using a hashmap</p>
