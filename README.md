@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/F0laf0lu/Daily-dsa-repo/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
